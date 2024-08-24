@@ -1,2 +1,2 @@
-# Cloud Computing 
-- Pasta criada para guardar arquivos e atividades relacionados a Cloud.
+# Pasta Cloud Computing 
+- Esta pasta é destinada a armazenar todos os arquivos de atividades e trabalhos relacionados a Cloud. 
