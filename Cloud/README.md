@@ -1,1 +1,3 @@
-Pasta criada para armazenar atividades e conteúdos das aulas de Cloud Computing
+# Pasta Cloud Computing
+
+Esta pasta é destinada a armazenar todos os arquivos de atividades e trabalhos relacionados em Python. 
